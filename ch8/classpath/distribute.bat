@@ -1,4 +1,4 @@
-javac ClasssPath.java
+javac ClassPath.java
 md mysubclass
 copy AAA.class .\mysubclass\AAA.class
 copy BBB.class .\mysubclass\BBB.class
