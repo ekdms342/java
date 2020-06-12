@@ -40,9 +40,8 @@ class PersonalNUmberStorageImpl implements PersonalNumberStorage
             if(perNum.compareTo(perArr[i].getNumber()) == 0)
             {
                 return perArr[i].getName();
-            }
-            return null;
-        }
+            }   
+        }return null;
     }
 }
 class AbstractInterface 

@@ -41,8 +41,8 @@ class PersonalNUmberStorageImpl extends PersonalNumberStorage
             {
                 return perArr[i].getName();
             }
-            return null;
         }
+ 	return null;
     }
 }
 class AbstractInterface 
